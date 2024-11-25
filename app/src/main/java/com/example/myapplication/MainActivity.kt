@@ -13,9 +13,12 @@ import androidx.recyclerview.widget.RecyclerView
 class MainActivity : AppCompatActivity() {
 
   private val students = mutableListOf(
-    StudentModel("Nguyễn Văn An", "SV001"),
-    StudentModel("Trần Thị Bảo", "SV002"),
-    StudentModel("Lê Hoàng Cường", "SV003")
+    StudentModel("Le Thi A", "SV001"),
+    StudentModel("Nguyen Van B", "SV002"),
+    StudentModel("Le Van C", "SV003"),
+    StudentModel("Ngo Ba D", "SV004"),
+    StudentModel("Duong Minh T", "SV005"),
+    StudentModel("Tran Xuan H", "SV006"),
   )
 
   private lateinit var studentAdapter: StudentAdapter
