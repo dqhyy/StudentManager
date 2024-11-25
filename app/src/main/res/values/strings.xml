@@ -1,0 +1,23 @@
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">StudentManager</string>
+
+    <!-- EditText Hints -->
+    <string name="hint_student_name">Student Name</string>
+    <string name="hint_student_id">Student ID</string>
+
+    <!-- Button Text -->
+    <string name="btn_save">Save</string>
+
+    <!-- Menu Items -->
+    <string name="menu_add_new">Add New</string>
+
+    <!-- Context Menu Items -->
+    <string name="context_edit">Edit</string>
+    <string name="context_delete">Delete</string>
+
+    <!-- Messages -->
+    <string name="msg_student_saved">Student information saved successfully!</string>
+    <string name="msg_student_deleted">Student removed successfully!</string>
+    <string name="msg_student_updated">Student details updated!</string>
+</resources>
